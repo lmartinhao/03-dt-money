@@ -1,3 +1,15 @@
+import { HeaderContainer, HeaderContent, NewTransactionButton } from './styles'
+
+import LogoImg from '../../assets/logo.svg'
+
 export function Header() {
-  return <div></div>
+  return (
+    <HeaderContainer>
+      <HeaderContent>
+        <img src={LogoImg} alt="" />
+
+        <NewTransactionButton>Nova transação</NewTransactionButton>
+      </HeaderContent>
+    </HeaderContainer>
+  )
 }
