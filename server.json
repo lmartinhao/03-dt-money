@@ -31,6 +31,22 @@
       "type": "outcome",
       "createdAt": "2023-02-27T21:24:51.364Z",
       "id": 4
+    },
+    {
+      "description": "Cinema",
+      "price": 100,
+      "category": "Diversão",
+      "type": "outcome",
+      "createdAt": "2023-02-27T21:48:13.943Z",
+      "id": 5
+    },
+    {
+      "description": "Restaurante",
+      "price": 100,
+      "category": "Diversão",
+      "type": "outcome",
+      "createdAt": "2023-02-27T21:48:44.629Z",
+      "id": 6
     }
   ]
 }
