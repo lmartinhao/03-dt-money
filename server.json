@@ -2,17 +2,17 @@
   "transactions": [
     {
       "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Desenvolvimento de site completo",
       "type": "income",
       "category": "Venda",
-      "price": 14000,
+      "price": 3200,
       "createdAt": "2023-02-23T15:28:20.429Z"
     },
     {
       "id": 2,
-      "description": "Hamburguinho",
+      "description": "Mercado",
       "type": "outcome",
-      "category": "Alimentação",
+      "category": "Contas",
       "price": 50,
       "createdAt": "2023-02-23T18:40:20.429Z"
     },
@@ -22,13 +22,13 @@
       "type": "outcome",
       "category": "Contas",
       "price": 4500,
-      "createdAt": "2023-02-30T18:40:20.429Z"
+      "createdAt": "2023-02-21T18:40:20.429Z"
     },
     {
-      "description": "Parque",
-      "price": 200,
-      "category": "Diversão",
-      "type": "outcome",
+      "description": "Desenvolvimento de aplicação",
+      "price": 2000,
+      "category": "Venda",
+      "type": "income",
       "createdAt": "2023-02-27T21:24:51.364Z",
       "id": 4
     },
