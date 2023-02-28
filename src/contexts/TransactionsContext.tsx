@@ -63,7 +63,7 @@ export function TransactionsProvider({ children }: TransactionsProviderType) {
 
   useEffect(() => {
     fetchTransactions()
-  }, [])
+  }, [fetchTransactions])
 
   return (
     <TransactionsContext.Provider
